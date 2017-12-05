@@ -1,0 +1,334 @@
+airline,points_cost,destination_region,destination_country
+american airlines,12500,north america,continental united states
+american airlines,15000,north america,canada
+american airlines,15000,north america,alaska
+american airlines,22500,north america,hawaii
+american airlines,15000,caribbean,anguilla
+american airlines,15000,caribbean,antigua
+american airlines,15000,caribbean,barbuda
+american airlines,15000,caribbean,aruba
+american airlines,15000,caribbean,bahamas
+american airlines,15000,caribbean,barbados
+american airlines,15000,caribbean,bermuda
+american airlines,15000,caribbean,british virgin islands
+american airlines,15000,caribbean,cayman islands
+american airlines,15000,caribbean,curacao
+american airlines,15000,caribbean,dominica
+american airlines,15000,caribbean,dominican republic
+american airlines,15000,caribbean,grenada
+american airlines,15000,caribbean,guadeloupe
+american airlines,15000,caribbean,haiti
+american airlines,15000,caribbean,jamaica
+american airlines,15000,caribbean,martinique
+american airlines,15000,caribbean,puerto rico
+american airlines,15000,caribbean,st. kitts-nevis
+american airlines,15000,caribbean,st. lucia
+american airlines,15000,caribbean,st. maarten
+american airlines,15000,caribbean,trinidad and tobago
+american airlines,15000,caribbean,turks and caicos
+american airlines,15000,caribbean,us virgin islands
+american airlines,15000,central america,mexico
+american airlines,15000,central america,belize
+american airlines,15000,central america,costa rica
+american airlines,15000,central america,el salvador
+american airlines,15000,central america,guatemala
+american airlines,15000,central america,honduras
+american airlines,15000,central america,nicaragua
+american airlines,15000,central america,panama
+american airlines,20000,south america,bolivia
+american airlines,20000,south america,colombia
+american airlines,20000,south america,ecuador
+american airlines,20000,south america,manaus
+american airlines,20000,south america,peru
+american airlines,30000,south america,argentina
+american airlines,30000,south america,brazil
+american airlines,30000,south america,chile
+american airlines,30000,south america,falkland islands
+american airlines,30000,south america,paraguay
+american airlines,30000,south america,uruguay
+american airlines,30000,south america,venezuela
+american airlines,30000,europe,albania
+american airlines,30000,europe,armenia
+american airlines,30000,europe,austria
+american airlines,30000,europe,azerbaijan
+american airlines,30000,europe,belarus
+american airlines,30000,europe,belgium
+american airlines,30000,europe,bulgaria
+american airlines,30000,europe,canary islands
+american airlines,30000,europe,croatia
+american airlines,30000,europe,cyprus
+american airlines,30000,europe,czech republic
+american airlines,30000,europe,denmark
+american airlines,30000,europe,estonia
+american airlines,30000,europe,finland
+american airlines,30000,europe,france
+american airlines,30000,europe,georgia
+american airlines,30000,europe,germany
+american airlines,30000,europe,gibraltar
+american airlines,30000,europe,greece
+american airlines,30000,europe,hungary
+american airlines,30000,europe,iceland
+american airlines,30000,europe,ireland
+american airlines,30000,europe,italy
+american airlines,30000,europe,latvia
+american airlines,30000,europe,lithuania
+american airlines,30000,europe,luxembourg
+american airlines,30000,europe,malta
+american airlines,30000,europe,moldova
+american airlines,30000,europe,montenegro
+american airlines,30000,europe,netherlands
+american airlines,30000,europe,norway
+american airlines,30000,europe,poland
+american airlines,30000,europe,portugal
+american airlines,30000,europe,romania
+american airlines,30000,europe,russia
+american airlines,30000,europe,serbia
+american airlines,30000,europe,slovenia
+american airlines,30000,europe,spain
+american airlines,30000,europe,sweden
+american airlines,30000,europe,switzerland
+american airlines,30000,europe,turkey
+american airlines,30000,europe,ukraine
+american airlines,30000,europe,united kingdom
+american airlines,35000,asia,japan
+american airlines,35000,asia,korea
+american airlines,35000,asia,brunei
+american airlines,35000,asia,cambodia
+american airlines,35000,asia,china
+american airlines,35000,asia,hong kong
+american airlines,35000,asia,indonesia
+american airlines,35000,asia,malaysia
+american airlines,35000,asia,myanmar
+american airlines,35000,asia,philippines
+american airlines,35000,asia,singapore
+american airlines,35000,asia,taiwan
+american airlines,35000,asia,thailand
+american airlines,35000,asia,vietnam
+american airlines,40000,oceania,australia
+american airlines,40000,oceania,easter island
+american airlines,40000,oceania,fiji
+american airlines,40000,oceania,french polynesia
+american airlines,40000,oceania,guam
+american airlines,40000,oceania,kiribati
+american airlines,40000,oceania,new zealand
+american airlines,40000,oceania,papua new guinea
+american airlines,40000,oceania,palau
+american airlines,40000,oceania,new caledonia
+american airlines,40000,oceania,republic of tonga
+american airlines,40000,oceania,republic of vanuatu
+american airlines,40000,oceania,american samoa
+american airlines,40000,oceania,samoa
+american airlines,40000,oceania,solomon islands
+american airlines,40000,oceania,tuvalu
+united airlines,10000,north america,continental united states
+united airlines,10000,north america,alaska
+united airlines,10000,north america,canada
+united airlines,22500,north america,hawaii
+united airlines,17500,central america,mexico
+united airlines,17500,central america,belize
+united airlines,17500,central america,costa rica
+united airlines,17500,central america,el salvador
+united airlines,17500,central america,guatemala
+united airlines,17500,central america,honduras
+united airlines,17500,central america,nicaragua
+united airlines,17500,central america,panama
+united airlines,17500,caribbean,antigua
+united airlines,17500,caribbean,aruba
+united airlines,17500,caribbean,barbuda
+united airlines,17500,caribbean,bahamas
+united airlines,17500,caribbean,barbados
+united airlines,17500,caribbean,bermuda
+united airlines,17500,caribbean,bonaire
+united airlines,17500,caribbean,british virgin islands
+united airlines,17500,caribbean,cayman islands
+united airlines,17500,caribbean,curacao
+united airlines,17500,caribbean,cuba
+united airlines,17500,caribbean,dominica
+united airlines,17500,caribbean,dominican republic
+united airlines,17500,caribbean,grenada
+united airlines,17500,caribbean,guadeloupe
+united airlines,17500,caribbean,haiti
+united airlines,17500,caribbean,jamaica
+united airlines,17500,caribbean,martinique
+united airlines,17500,caribbean,puerto rico
+united airlines,17500,caribbean,st. eustatius and saba
+united airlines,17500,caribbean,st. kitts-nevis
+united airlines,17500,caribbean,st. lucia
+united airlines,17500,caribbean,st. maarten
+united airlines,17500,caribbean,trinidad and tobago
+united airlines,17500,caribbean,turks and caicos
+united airlines,17500,caribbean,us virgin islands
+united airlines,20000,south america,colombia
+united airlines,20000,south america,ecuador
+united airlines,20000,south america,french guiana
+united airlines,20000,south america,guyana
+united airlines,20000,south america,peru
+united airlines,20000,south america,suriname
+united airlines,20000,south america,venezuela
+united airlines,30000,south america,argentina
+united airlines,30000,south america,brazil
+united airlines,30000,south america,chile
+united airlines,30000,south america,paraguay
+united airlines,30000,south america,uruguay
+united airlines,30000,south america,bolivia
+united airlines,30000,europe,albania
+united airlines,30000,europe,armenia
+united airlines,30000,europe,austria
+united airlines,30000,europe,azerbaijan
+united airlines,30000,europe,belarus
+united airlines,30000,europe,belgium
+united airlines,30000,europe,bulgaria
+united airlines,30000,europe,bosnia and herzegovina
+united airlines,30000,europe,croatia
+united airlines,30000,europe,cyprus
+united airlines,30000,europe,czech republic
+united airlines,30000,europe,denmark
+united airlines,30000,europe,estonia
+united airlines,30000,europe,finland
+united airlines,30000,europe,france
+united airlines,30000,europe,georgia
+united airlines,30000,europe,germany
+united airlines,30000,europe,greece
+united airlines,30000,europe,greenland
+united airlines,30000,europe,hungary
+united airlines,30000,europe,iceland
+united airlines,30000,europe,ireland
+united airlines,30000,europe,italy
+united airlines,30000,europe,latvia
+united airlines,30000,europe,lithuania
+united airlines,30000,europe,luxembourg
+united airlines,30000,europe,macedonia
+united airlines,30000,europe,malta
+united airlines,30000,europe,moldova
+united airlines,30000,europe,montenegro
+united airlines,30000,europe,netherlands
+united airlines,30000,europe,norway
+united airlines,30000,europe,poland
+united airlines,30000,europe,portugal
+united airlines,30000,europe,romania
+united airlines,30000,europe,russia
+united airlines,30000,europe,serbia
+united airlines,30000,europe,slovakia
+united airlines,30000,europe,slovenia
+united airlines,30000,europe,spain
+united airlines,30000,europe,sweden
+united airlines,30000,europe,switzerland
+united airlines,30000,europe,turkey
+united airlines,30000,europe,ukraine
+united airlines,30000,europe,united kingdom
+united airlines,42500,middle east,bahrain
+united airlines,42500,middle east,egypt
+united airlines,42500,middle east,iran
+united airlines,42500,middle east,iraq
+united airlines,42500,middle east,israel
+united airlines,42500,middle east,jordan
+united airlines,42500,middle east,kuwait
+united airlines,42500,middle east,lebanon
+united airlines,42500,middle east,oman
+united airlines,42500,middle east,qatar
+united airlines,42500,middle east,saudi arabia
+united airlines,42500,middle east,syria
+united airlines,42500,middle east,united arab emirates
+united airlines,42500,middle east,yemen
+united airlines,40000,africa,algeria
+united airlines,40000,africa,canary islands
+united airlines,40000,africa,libya
+united airlines,40000,africa,morocco
+united airlines,40000,africa,tunisia
+united airlines,40000,africa,angola
+united airlines,40000,africa,benin
+united airlines,40000,africa,botswana
+united airlines,40000,africa,burkina faso
+united airlines,40000,africa,burundi
+united airlines,40000,africa,cameroon
+united airlines,40000,africa,cape verde
+united airlines,40000,africa,central african republic
+united airlines,40000,africa,chad
+united airlines,40000,africa,comoros
+united airlines,40000,africa,congo
+united airlines,40000,africa,cote d'lvoire
+united airlines,40000,africa,democratic republic of congo
+united airlines,40000,africa,djibouti
+united airlines,40000,africa,equatorial guinea
+united airlines,40000,africa,eritrea
+united airlines,40000,africa,ethiopia
+united airlines,40000,africa,gabon
+united airlines,40000,africa,gambia
+united airlines,40000,africa,ghana
+united airlines,40000,africa,guinea
+united airlines,40000,africa,guinea-bissau
+united airlines,40000,africa,kenya
+united airlines,40000,africa,lesotho
+united airlines,40000,africa,liberia
+united airlines,40000,africa,madagascar
+united airlines,40000,africa,malawi
+united airlines,40000,africa,mali
+united airlines,40000,africa,mauritania
+united airlines,40000,africa,mauritius
+united airlines,40000,africa,mozambique
+united airlines,40000,africa,namibia
+united airlines,40000,africa,niger
+united airlines,40000,africa,nigeria
+united airlines,40000,africa,reunion island
+united airlines,40000,africa,rwanda
+united airlines,40000,africa,south africa
+united airlines,40000,africa,sao tome and principe
+united airlines,40000,africa,senegal
+united airlines,40000,africa,seychelles
+united airlines,40000,africa,sierra leone
+united airlines,40000,africa,somalia
+united airlines,40000,africa,south sudan
+united airlines,40000,africa,sudan
+united airlines,40000,africa,swaziland
+united airlines,40000,africa,tanzania
+united airlines,40000,africa,togo
+united airlines,40000,africa,uganda
+united airlines,40000,africa,zambia
+united airlines,40000,africa,zimbabwe
+united airlines,35000,asia,china
+united airlines,35000,asia,south korea
+united airlines,35000,asia,mongolia
+united airlines,35000,asia,taiwan
+united airlines,42500,asia,afghanistan
+united airlines,42500,asia,india
+united airlines,42500,asia,kazakhstan
+united airlines,42500,asia,kyrgyzstan
+united airlines,42500,asia,maldives
+united airlines,42500,asia,nepal
+united airlines,42500,asia,pakistan
+united airlines,42500,asia,sri lanka
+united airlines,42500,asia,tajikistan
+united airlines,42500,asia,turkmenistan
+united airlines,42500,asia,uzbekistan
+united airlines,40000,asia,bangladesh
+united airlines,40000,asia,bhutan
+united airlines,40000,asia,brunei
+united airlines,40000,asia,cambodia
+united airlines,40000,asia,hong kong
+united airlines,40000,asia,indonesia
+united airlines,40000,asia,laos
+united airlines,40000,asia,macau
+united airlines,40000,asia,malaysia
+united airlines,40000,asia,myanmar (burma)
+united airlines,40000,asia,philippines
+united airlines,40000,asia,singapore
+united airlines,40000,asia,thailand
+united airlines,40000,asia,vietnam
+united airlines,35000,asia,japan
+united airlines,35000,oceania,american samoa
+united airlines,35000,oceania,cook islands
+united airlines,35000,oceania,federated states of micronesia
+united airlines,35000,oceania,fiji
+united airlines,35000,oceania,french polynesia
+united airlines,35000,oceania,guam
+united airlines,35000,oceania,northern mariana islands
+united airlines,35000,oceania,marshall islands
+united airlines,35000,oceania,new caledonia
+united airlines,35000,oceania,palau
+united airlines,35000,oceania,papua new guinea
+united airlines,35000,oceania,tonga
+united airlines,35000,oceania,vanuatu
+united airlines,35000,oceania,samoa
+united airlines,40000,oceania,australia
+united airlines,40000,oceania,new zealand
+united airlines,40000,oceania,norfolk island
